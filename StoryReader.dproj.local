@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.177,=D:\Мои программы\Delphi\Проект игра с кубиками\Interpretator pre1_r4\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.299,=D:\Мои программы\Delphi\Проект игра с кубиками\Interpretator Alpha2\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.060,D:\Мои программы\Delphi\Проект игра с кубиками\Interpretator pre1_r4\Translator.pas=D:\Мои программы\Delphi\Проект игра с кубиками\Interpretator pre1_r4\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.343,=D:\Мои программы\Delphi\Проект игра с кубиками\Interpretator Alpha2\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.981,D:\Андрей\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Мои программы\Delphi\Проект игра с кубиками\Interpretator pre1_r4\Interpret.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.905,=D:\Андрей\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.639,D:\Андрей\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Мои программы\Delphi\Проект игра с кубиками\Interpretator pre1_r4\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.639,D:\Андрей\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Мои программы\Delphi\Проект игра с кубиками\Interpretator pre1_r4\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.102,=D:\Мои программы\Delphi\Проект игра с кубиками\Translator\Translator.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.968,D:\Мои программы\Delphi\Проект игра с кубиками\Interpretator 1_03\Interpret.dproj=D:\Мои программы\Delphi\Проект игра с кубиками\Interpretator 1_03\StoryReader.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\Проект игра с кубиками"/>
+    <File Path="..\Translator"/>
+    <File Path="..\Translator\Translator.pas"/>
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit3.pas"/>
+    <File Path="Unit3.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
